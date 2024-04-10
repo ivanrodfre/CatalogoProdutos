@@ -1,0 +1,12 @@
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\bin\Debug\net8.0\CP.Catalogo.Domain.deps.json
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\bin\Debug\net8.0\CP.Catalogo.Domain.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\bin\Debug\net8.0\CP.Catalogo.Domain.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.AssemblyInfo.cs
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\refint\CP.Catalogo.Domain.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\CP.Catalogo.Domain.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.Domain\obj\Debug\net8.0\ref\CP.Catalogo.Domain.dll

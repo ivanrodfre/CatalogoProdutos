@@ -1,0 +1,17 @@
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.IoC.deps.json
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.IoC.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.IoC.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.Domain.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.Infra.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.Domain.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\bin\Debug\net8.0\CP.Catalogo.Infra.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.csproj.AssemblyReference.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.AssemblyInfoInputs.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.AssemblyInfo.cs
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catal.CB339545.Up2Date
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\refint\CP.Catalogo.IoC.dll
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\CP.Catalogo.IoC.pdb
+C:\Projetos\CatalogoProdutos\src\services\CP.Catalogo.API\CP.Catalogo.IoC\obj\Debug\net8.0\ref\CP.Catalogo.IoC.dll

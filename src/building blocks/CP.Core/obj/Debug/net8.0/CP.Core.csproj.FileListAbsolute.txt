@@ -1,0 +1,12 @@
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\bin\Debug\net8.0\CP.Core.deps.json
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\bin\Debug\net8.0\CP.Core.dll
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\bin\Debug\net8.0\CP.Core.pdb
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.csproj.AssemblyReference.cache
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.AssemblyInfoInputs.cache
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.AssemblyInfo.cs
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.dll
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\refint\CP.Core.dll
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\CP.Core.pdb
+C:\Projetos\CatalogoProdutos\src\building blocks\CP.Core\obj\Debug\net8.0\ref\CP.Core.dll

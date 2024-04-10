@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CP.Catalogo.Domain\CP.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\CP.Catalogo.Domain\CP.Catalogo.Domain.csproj" />
+  </ItemGroup>
+
+<ItemGroup>
+	<PackageReference Include="MassTransit" Version="8.2.0" />
+	<PackageReference Include="MassTransit.AspNetCore" Version="7.3.1" />
+	<PackageReference Include="MassTransit.RabbitMQ" Version="8.2.0" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameWorkCore.SqlServer" Version="7.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameWorkCore.Design" Version="7.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.3" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.3">
+		<PrivateAssets>all</PrivateAssets>
+		<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+	<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
+</ItemGroup>
+
+<ItemGroup>
+  <Folder Include="Migrations\" />
+</ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
