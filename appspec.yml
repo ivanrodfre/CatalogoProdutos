@@ -11,10 +11,10 @@ hooks:
       timeout: 120
       runas: root
   ApplicationStop:
-    - location: deploy-scripts/before_install.sh
+    - location: deploy-scripts/stop_install.sh
       timeout: 120
       runas: root
   ApplicationStart:
-    - location: deploy-scripts/before_install.sh
+    - location: deploy-scripts/start_install.sh
       timeout: 120
       runas: root
