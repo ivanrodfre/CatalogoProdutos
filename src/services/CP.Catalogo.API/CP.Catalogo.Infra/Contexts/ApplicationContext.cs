@@ -16,8 +16,8 @@ namespace Catalogo.Infra.Contexts
         public DbSet<ProdutoItem> Produtos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder
-                .UseSqlServer("Data source=.\\SQLEXPRESS;Initial Catalog=Catalogo;User Id=ivanteste;Password=10203040; TrustServerCertificate=True");
+            //optionsBuilder
+            //    .UseSqlServer("Data source=.\\SQLEXPRESS;Initial Catalog=Catalogo;User Id=ivanteste;Password=10203040; TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
