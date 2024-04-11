@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: src\services\CP.Catalogo.API\CP.Catalogo.Api
+  - source: CatalogoProdutos
     destination: /var/www
   - source: deploy-scripts/webapi.service
     destination: /etc/systemd/system
