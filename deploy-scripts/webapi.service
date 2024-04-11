@@ -3,7 +3,7 @@ Description=Catalogo Produtos
 
 [Service]
 WorkingDirectory=/var/www/
-ExecStart=/usr/bin/dotnet /var/www/CatalogoProdutos.dll
+ExecStart=/usr/bin/dotnet /var/www/CP.Catalogo.Api.dll
 Restart=always
 
 RestartSec=10
